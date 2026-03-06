@@ -1,0 +1,50 @@
+# Godot 4+ specific ignores
+.godot/
+
+# Godot-specific ignores
+.import/
+export.cfg
+export_presets.cfg
+
+# Imported translations (if not stored locally)
+*.translation
+
+# Mono-specific ignores
+.mono/
+data_*/
+mono_crash.*.json
+
+# System/tool-specific ignores
+.DS_Store
+Thumbs.db
+*~
+*.swp
+
+# IDEs
+.idea/
+.vscode/
+*.code-workspace
+
+# Builds and Exports
+bin/
+build/
+export/
+releases/
+*.x86_64
+*.x86_32
+*.arm32
+*.arm64
+*.apk
+*.aab
+*.pck
+*.dmg
+*.exe
+*.AppImage
+
+# Linux / Mac Executables
+*.sh
+*.command
+
+# Game project specific builds
+"New Game Project.sh"
+"New Game Project.x86_64"
