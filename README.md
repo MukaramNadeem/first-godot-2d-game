@@ -8,9 +8,9 @@ This is my first 2D game developed using the [Godot Engine](https://godotengine.
 This project serves as my introduction to Godot 4, covering the fundamentals of 2D game development. By building this game, I learned the basics of the Godot editor, sprites, animations, nodes, scenes and writing scripts in GDScript.
 
 ## What I Learned
-- **Godot Engine Basics:** Navigating the editor, understanding the node system, and structuring games with scenes.
-- **GDScript:** Writing scripts to control player movement, handle core inputs, and manage simple game logic.
-- **2D Physics:** Using CharacterBody2D, setting up custom collision shapes, and handling physics processing.
+- **Godot Engine Basics:** Navigating the editor, understanding the node system and structuring games with scenes.
+- **GDScript:** Writing scripts to control player movement, handle core inputs and manage simple game logic.
+- **2D Physics:** Using CharacterBody2D, setting up custom collision shapes and handling physics processing.
 - **Game Objects & Environment:** Using TileMaps to create level layouts and managing object instances.
 - **Input Handling:** Mapping keyboard inputs to game actions (jump, move left, move right).
 
@@ -22,7 +22,7 @@ This project serves as my introduction to Godot 4, covering the fundamentals of 
 ### Instructions
 1. Download or clone this repository to your local machine:
    ```bash
-   
+   git clone https://github.com/MukaramNadeem/first-godot-2d-game.git
    ```
 2. Open the Godot Engine.
 3. Click on **Import** in the Project Manager window.
